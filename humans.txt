@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+  Dimitrije Milosavljevic mita.edu1@gmail.com @hadrocodium
 
 # THANKS
 
